@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Net_Core_API\\FirstWebMVC\\FirstWebMVC.csproj": {}
+    "E:\\Hiep741\\FirstWebMVC\\FirstWebMVC.csproj": {}
   },
   "projects": {
-    "E:\\Net_Core_API\\FirstWebMVC\\FirstWebMVC.csproj": {
+    "E:\\Hiep741\\FirstWebMVC\\FirstWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Net_Core_API\\FirstWebMVC\\FirstWebMVC.csproj",
+        "projectUniqueName": "E:\\Hiep741\\FirstWebMVC\\FirstWebMVC.csproj",
         "projectName": "FirstWebMVC",
-        "projectPath": "E:\\Net_Core_API\\FirstWebMVC\\FirstWebMVC.csproj",
+        "projectPath": "E:\\Hiep741\\FirstWebMVC\\FirstWebMVC.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Net_Core_API\\FirstWebMVC\\obj\\",
+        "outputPath": "E:\\Hiep741\\FirstWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,32 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,4 +1,5 @@
-namespace DemoMVC.Models
+using MvcMovie.Models;
+namespace MvcMovie.Models
 {
     public class Employee : Person
     {
