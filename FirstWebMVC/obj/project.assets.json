@@ -8012,11 +8012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Hiep741\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectUniqueName": "E:\\Net_Core_API\\FirstWebMVC\\FirstWebMVC.csproj",
       "projectName": "FirstWebMVC",
-      "projectPath": "E:\\Hiep741\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectPath": "E:\\Net_Core_API\\FirstWebMVC\\FirstWebMVC.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Hiep741\\FirstWebMVC\\obj\\",
+      "outputPath": "E:\\Net_Core_API\\FirstWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
